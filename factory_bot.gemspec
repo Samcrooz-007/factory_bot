@@ -42,3 +42,5 @@ Gem::Specification.new do |s|
 
   s.license = "MIT"
 end
+
+https://github.com/Samcrooz-007/factory_bot/blob/main/factory_bot.gemspec#L1-L44
